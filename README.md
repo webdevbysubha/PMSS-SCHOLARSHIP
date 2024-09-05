@@ -18,7 +18,7 @@ The Prime Minister's Scholarship Scheme (PMSS) is a welfare initiative launched 
 -Select the Scholarship which suits you from the available ones
 - Drop an application with required details
 
-##🤝🏼 Contributing
+## 🤝🏼 Contributing
 
 We welcome contributions! If you have an idea for a new feature or have found a bug, please open an issue on Github. 
 
